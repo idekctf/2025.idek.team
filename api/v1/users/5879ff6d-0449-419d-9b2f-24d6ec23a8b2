@@ -1,0 +1,1 @@
+{"kind":"goodUserData","message":"The user data was successfully retrieved.","data":{"name":"VN_MSEC","division":"open","score":100,"globalPlace":522,"divisionPlace":522,"solves":[{"category":"sanity","name":"check","points":100,"solves":774,"id":"sanity\\check","createdAt":1754129466811}]}}

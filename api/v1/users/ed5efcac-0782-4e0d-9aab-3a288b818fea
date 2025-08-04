@@ -1,0 +1,1 @@
+{"kind":"goodUserData","message":"The user data was successfully retrieved.","data":{"name":"QwertyPi","division":"open","score":323,"globalPlace":225,"divisionPlace":225,"solves":[{"category":"crypto","name":"Diamond Ticket","points":323,"solves":37,"id":"crypto\\diamond_ticket","createdAt":1754269297318}]}}

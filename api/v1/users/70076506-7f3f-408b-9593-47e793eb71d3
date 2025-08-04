@@ -1,0 +1,1 @@
+{"kind":"goodUserData","message":"The user data was successfully retrieved.","data":{"name":"Regino","division":"open","score":228,"globalPlace":273,"divisionPlace":273,"solves":[{"category":"pwn","name":"myspace2","points":228,"solves":71,"id":"pwn-myspace2","createdAt":1754255680494}]}}

@@ -1,0 +1,1 @@
+{"kind":"goodUserData","message":"The user data was successfully retrieved.","data":{"name":"grep_users","division":"open","score":320,"globalPlace":226,"divisionPlace":226,"solves":[{"category":"web","name":"midi visualizer","points":320,"solves":38,"id":"web-midi-visualizer","createdAt":1754293694377}]}}
